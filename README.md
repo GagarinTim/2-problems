@@ -1,2 +1,2 @@
-# 2-problems
-Stepik
+# some stepik and Udemy problems
+
